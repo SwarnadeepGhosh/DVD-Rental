@@ -1,4 +1,4 @@
-# DVD-Rental Database Project
+# DVD-Rental SQL Project
 - [**DVD Rental**](https://www.postgresqltutorial.com/postgresql-sample-database/) is a a PostgreSQL sample database given in PostgreSQL Official Website.
 - I have used DVD rental database and retrieve a clear and simple output using PostgreSQL, saved output into `.csv` file and plotted them using MS-EXCEL
 - The DVD rental database represents the business processes of a DVD rental store.
